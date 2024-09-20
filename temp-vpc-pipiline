@@ -1,0 +1,8 @@
+Resources:
+  myVPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.9.0.0/16
+      Tags:
+       - Key: Name
+         Value: Qlite-dev-xu-vpc-pipeline
