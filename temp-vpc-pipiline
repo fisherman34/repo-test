@@ -5,4 +5,4 @@ Resources:
       CidrBlock: 10.9.0.0/16
       Tags:
        - Key: Name
-         Value: Qlite-dev-xu-vpc-pipeline
+         Value: Qlite-dev-xu-vpc-11111
